@@ -1,4 +1,4 @@
 dependencies:
-  skills:
+  skill:
     - cocktails
     - mozilla-web-things
